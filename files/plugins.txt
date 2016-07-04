@@ -1,0 +1,10 @@
+slack:1.8
+envinject:1.92.1
+workflow-step-api:1.10
+credentials:1.22
+ssh-credentials:1.11
+ssh-agent:1.9
+build-token-root:1.3
+rebuild:1.25
+ansicolor:0.4.2
+parameterized-trigger:2.30
